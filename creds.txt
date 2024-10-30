@@ -1,2 +1,0 @@
-username = ank02
-password = mis03
